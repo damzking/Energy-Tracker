@@ -1,0 +1,26 @@
+country,category,year,emissions_mtco2
+Nigeria,Energy,2020,120.5
+Nigeria,Agriculture,2020,40.2
+Nigeria,Industry,2020,30.1
+Nigeria,Transport,2020,25.3
+Nigeria,Waste,2020,5.0
+South Africa,Energy,2020,220.3
+South Africa,Industry,2020,80.0
+South Africa,Transport,2020,45.6
+South Africa,Agriculture,2020,25.0
+South Africa,Waste,2020,10.5
+Kenya,Agriculture,2020,18.4
+Kenya,Energy,2020,12.1
+Kenya,Industry,2020,6.0
+Kenya,Transport,2020,4.2
+Kenya,Waste,2020,1.2
+Egypt,Energy,2020,150.0
+Egypt,Industry,2020,60.0
+Egypt,Transport,2020,35.0
+Egypt,Agriculture,2020,20.0
+Egypt,Waste,2020,8.0
+Ghana,Energy,2020,20.5
+Ghana,Agriculture,2020,10.0
+Ghana,Industry,2020,5.0
+Ghana,Transport,2020,3.5
+Ghana,Waste,2020,0.8
